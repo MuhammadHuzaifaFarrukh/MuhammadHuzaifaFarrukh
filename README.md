@@ -37,6 +37,12 @@
 
 ---
 
+### LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/SuperTechnology_Gamer_05)
+
+---
+
 ### Connect with me! 
 
 <p align="center">
