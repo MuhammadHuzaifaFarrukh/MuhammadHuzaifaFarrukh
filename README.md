@@ -29,5 +29,10 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 
