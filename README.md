@@ -37,6 +37,20 @@
 
 ---
 
+### Connect with me! 🔗
+
+<p align="center">
+  <a href="[YOUR_PORTFOLIO_URL](https://muhammadhuzaifafarrukh.github.io/)" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=website" alt="Portfolio" width="40" height="40" />
+  </a>
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhammad-huzaifa-farrukh-9608a1358/?trk=opento_sprofile_details)" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="[YOUR_GITHUB_PROFILE_URL](https://github.com/MuhammadHuzaifaFarrukh)" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+  </a>
+</p>
+
 
 
 
