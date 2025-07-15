@@ -32,7 +32,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadHuzaifaFarrukh&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHuzaifaFarrukh&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
