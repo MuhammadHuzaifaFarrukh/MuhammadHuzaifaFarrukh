@@ -49,7 +49,7 @@
   <a href="https://muhammadhuzaifafarrukh.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="in/muhammad-huzaifa-farrukh-9608a1358" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-farrukh-9608a1358/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/MuhammadHuzaifaFarrukh" target="_blank" rel="noopener noreferrer">
