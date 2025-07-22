@@ -46,7 +46,7 @@
 ### Connect with me! 
 
 <p align="center">
-  <a href="[YOUR_PORTFOLIO_URL](https://muhammadhuzaifafarrukh.github.io/)" target="_blank" rel="noopener noreferrer">
+  <a href="https://muhammadhuzaifafarrukh.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="[YOUR_LINKEDIN_URL](https://linkedin.com/in/muhammad-huzaifa-farrukh-9608a1358)" target="_blank" rel="noopener noreferrer">
