@@ -6,7 +6,7 @@
 
 ### 🛠️ My Skills and Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,sql,git,github,vscode,oracle,godot,unity" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,mysql,git,github,vscode,oracle,godot,unity" />
 </p>
 
 ---
