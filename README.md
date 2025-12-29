@@ -1,10 +1,6 @@
 ### Hi, I'm Muhammad Huzaifa Farrukh! 👋 
 
-
-
 ![](https://komarev.com/ghpvc/?username=MuhammadHuzaifaFarrukh)
-
-
 
 ---
 
@@ -18,19 +14,13 @@
 
 </p>
 
-
-
 ---
 
 
 
 ### 📊 GitHub Stats 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadHuzaifaFarrukh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadHuzaifaFarrukh&show_icons=true&theme=dracula)](https://github.com/MuhammadHuzaifaFarrukh/github-readme-stats)
 
 ---
 
@@ -38,11 +28,7 @@
 
 ### 🌐 Top Languages 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHuzaifaFarrukh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHuzaifaFarrukh&layout=compact&theme=dracula)](https://github.com/MuhammadHuzaifaFarrukh/github-readme-stats)
 
 ---
 
@@ -50,11 +36,7 @@
 
 ### 📈 My GitHub Activity 
 
-
-
 [![Muhammad Huzaifa Farrukh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHuzaifaFarrukh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 ---
 
@@ -62,15 +44,11 @@
 
 ### 🏆 GitHub Trophies 
 
-
-
 <p align="center">
 
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHuzaifaFarrukh&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
 </p>
-
-
 
 ---
 
@@ -78,14 +56,9 @@
 
 ### LeetCode Stats
 
-
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/SuperTechnology_Gamer_05)](https://leetcode.com/SuperTechnology_Gamer_05)
 
-
-
 ---
-
 
 
 ### Connect with me! 
