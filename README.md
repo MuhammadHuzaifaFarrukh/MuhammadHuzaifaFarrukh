@@ -12,14 +12,12 @@
 ---
 
 ### 📊 GitHub Stats 
-
-[![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadHuzaifaFarrukh&show_icons=true&theme=dracula)](https://github.com/MuhammadHuzaifaFarrukh/github-readme-stats)
+![Huzaifa's Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHuzaifaFarrukh&show_icons=true&theme=dracula&cache_seconds=1800)
 
 ---
 
 ### 🌐 Top Languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHuzaifaFarrukh&layout=compact&theme=dracula)](https://github.com/MuhammadHuzaifaFarrukh/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHuzaifaFarrukh&layout=compact&theme=dracula&cache_seconds=1800)
 
 ---
 
@@ -30,10 +28,8 @@
 ---
 
 ### 🏆 GitHub Trophies 
+![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadHuzaifaFarrukh&theme=dracula)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHuzaifaFarrukh&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
