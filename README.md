@@ -9,12 +9,9 @@
 ### 🛠️ My Skills and Tools 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,mysql,git,github,vscode,godot,unity,asm" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" width="48" height="48" />
-  
-  <img src="EMU8086-Logo-1.jpg" width="48" height="48" style="border-radius: 10px;" />
+
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,mysql,git,github,vscode,godot,unity" />
+
 </p>
 
 ---
