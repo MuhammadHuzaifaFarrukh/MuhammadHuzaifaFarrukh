@@ -14,8 +14,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: yoshi389111/github-profile-3d-contrib@main
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@main
         with:
           username: MuhammadHuzaifaFarrukh
 
@@ -24,5 +27,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "update 3d contribution graph" || echo "No changes to commit"
+          git commit -m "update 3d contribution graph" || echo "No changes"
           git push
