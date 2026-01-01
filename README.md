@@ -8,12 +8,29 @@
 
 ### 🛠️ My Skills and Tools 
 
-<p align="center">
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,mysql,git,github,vscode,godot,unity" />
+<div align="center">
 
-</p>
+## 🛠️ My Skills and Tools
 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-2E3A59?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/Emu8086-4E4E4E?style=for-the-badge&logo=cpu&logoColor=white" />
+
+</div>
 ---
 
 
