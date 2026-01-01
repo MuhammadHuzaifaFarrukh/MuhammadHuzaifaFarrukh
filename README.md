@@ -56,6 +56,9 @@
 ### Connect with me!
 
 <p>
+  <a href="https://muhammadhuzaifafarrukh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:huzaifafarrukh.1990@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
