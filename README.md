@@ -8,22 +8,20 @@
 
 ### 🛠️ My Skills and Tools 
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
-    <!-- Your custom icons -->
-    
   <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/SQL.png" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/ASM.png" width="40" height="40" />
+</p>
 
-  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/emu 8086.png" width="40" height="40" />
-  
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,godot,unity" />
-
-
 </p>
 ---
 
