@@ -51,9 +51,11 @@
 ---
 
 
-### Connect with me! 
+<div align="center">
 
-<p align="left">
+### Connect with me!
+
+<p>
   <a href="mailto:huzaifafarrukh.1990@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -61,3 +63,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+![](https://github.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/blob/main/profile-3d-contrib/profile-night-view.svg)
+
+</div>
