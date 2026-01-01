@@ -35,7 +35,7 @@
 ## 📊 Contribution Graph
 
 ![3D Contribution Graph](profile-3d/profile-3d-contrib/profile-night-green.svg)
-
+![](https://github.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/blob/main/profile-3d-contrib/profile-night-view.svg)
 
 ### 🏆 GitHub Trophies 
 
@@ -71,7 +71,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-![](https://github.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/blob/main/profile-3d-contrib/profile-night-view.svg)
 
 </div>
