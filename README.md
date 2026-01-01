@@ -25,15 +25,6 @@
 ---
 
 
-
-### 🌐 Top Languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHuzaifaFarrukh&layout=compact&theme=dracula)](https://github.com/MuhammadHuzaifaFarrukh/github-readme-stats)
-
----
-
-
-
 ### 📈 My GitHub Activity 
 
 [![Muhammad Huzaifa Farrukh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHuzaifaFarrukh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
