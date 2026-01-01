@@ -31,6 +31,14 @@
 
 ---
 
+### My GitHub Statistics 🚀
+
+![](https://github.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/blob/main/profile-3d-contrib/profile-night-view.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHuzaifaFarrukh&layout=donut&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHuzaifaFarrukh&show_icons=true&theme=dark)
+
 
 
 ### 🏆 GitHub Trophies 
