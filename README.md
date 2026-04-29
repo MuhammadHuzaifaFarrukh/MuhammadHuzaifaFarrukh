@@ -30,10 +30,9 @@
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/emu 8086.png" width="48" height="48" /></td>
-<td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/PEBear.png" width="48" height="48" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/pebear.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/x64dbg.png" width="48" height="48" /></td>
-<td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/ProcessHacker.png" width="48" height="48" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=wireshark" height="48" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/wireshark.png" height="48" /></td>
 </tr></table>
 
 **Other**
