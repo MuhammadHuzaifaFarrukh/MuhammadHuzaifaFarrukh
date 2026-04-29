@@ -8,19 +8,24 @@
 
 ### 🛠️ My Skills and Tools 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
-  <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/SQL.png" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/ASM.png" width="48" height="48" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/emu 8086.png" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=git,github,godot,unity" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
+      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/SQL.png" width="48" height="48" />
+      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/ASM.png" width="48" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="48" height="48" />
+      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="48" height="48" />
+      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/emu 8086.png" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=git,github,godot,unity" />
+    </td>
+  </tr>
+</table>
 
 
 
