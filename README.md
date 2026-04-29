@@ -10,6 +10,8 @@
 
 <div align="center">
 
+**Languages**
+
 <table><tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=c" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="48" /></td>
@@ -19,10 +21,20 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=python" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/SQL.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/ASM.png" width="48" height="48" /></td>
+</tr></table>
+
+**Tools & IDEs**
+
+<table><tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/emu 8086.png" width="48" height="48" /></td>
+</tr></table>
+
+**Other**
+
+<table><tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=godot" height="48" /></td>
