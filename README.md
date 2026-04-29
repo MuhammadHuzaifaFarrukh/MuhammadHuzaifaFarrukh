@@ -38,7 +38,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=godot" height="48" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="48" /></td>
+<!--<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="48" /></td>-->
 </tr></table>
 
 </div>
