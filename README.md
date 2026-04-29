@@ -8,24 +8,23 @@
 
 ### 🛠️ My Skills and Tools 
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
-      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/SQL.png" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/ASM.png" width="48" height="48" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" />
-      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/emu 8086.png" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=git,github,godot,unity" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" height="48" />
+    <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/SQL.png" width="48" height="48" style="vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/ASM.png" width="48" height="48" style="vertical-align: middle;" />
+  </div>
+
+  <br />
+
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+    <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="48" height="48" style="vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="48" height="48" style="vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/emu 8086.png" width="48" height="48" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=git,github,godot,unity" height="48" />
+  </div>
+</div>
 
 
 
