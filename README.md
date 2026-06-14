@@ -30,6 +30,8 @@
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="48" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="48" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" height="48" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/emu 8086.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/pebear.png" width="48" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/x64dbg.png" width="48" height="48" /></td>
@@ -39,9 +41,12 @@
 **Other**
 
 <table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=godot" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" height="48" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=godot" height="48" /></td>
+<td align="center"><img src="https://cdn.simpleicons.org/brevo/256565" height="48" width="48" alt="Brevo" /></td>
+<td align="center"><img src="https://cdn.simpleicons.org/resend/000000" height="48" width="48" alt="Resend" /></td>
+<td align="center"><img src="https://cdn.simpleicons.org/cronjob/000000" height="48" width="48" alt="CronJob" /></td>
 <!--<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="48" /></td>-->
 </tr></table>
 
