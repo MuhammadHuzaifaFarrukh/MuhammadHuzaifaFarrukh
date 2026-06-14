@@ -46,7 +46,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=github" height="48" /></td>
 <td align="center"><img src="https://cdn.simpleicons.org/brevo/256565" height="48" width="48" alt="Brevo" /></td>
 <td align="center"><img src="https://cdn.simpleicons.org/resend/000000" height="48" width="48" alt="Resend" /></td>
-<img src="https://skillicons.dev/icons?i=clock" height="48" width="48" alt="CronJob" />
+<td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/cronjob.png" height="48" /></td>
 <!--<td align="center"><img src="https://skillicons.dev/icons?i=unity" height="48" /></td>-->
 </tr></table>
 
