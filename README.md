@@ -28,6 +28,7 @@
 <table><tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/codeblocks.png" width="48" height="48" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="48" /></td> <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="48" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/MuhammadHuzaifaFarrukh/MuhammadHuzaifaFarrukh/main/assets/icons/Oracle DB.png" width="48" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="48" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=supabase" height="48" /></td>
