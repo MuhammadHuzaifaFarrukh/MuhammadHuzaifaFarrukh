@@ -92,7 +92,7 @@
 
 ### LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SuperTechnology_Gamer_05)](https://leetcode.com/SuperTechnology_Gamer_05)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SuperTechnology_Gamer_05)](https://leetcode.com/Muhammad_Huzaifa_Farrukh)
 
 ---
 
