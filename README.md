@@ -90,9 +90,9 @@
 
 
 
-### LeetCode Stats
-
-[![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=Super_Technology_Gamer_05&theme=dark)](https://leetcode.com/u/Muhammad_Huzaifa_Farrukh/)
+<a href="https://leetcode.com/u/Muhammad_Huzaifa_Farrukh/">
+  <img src="https://img.shields.io/badge/LeetCode-Muhammad__Huzaifa__Farrukh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+</a>
 
 ---
 
