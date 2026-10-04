@@ -89,10 +89,8 @@
 ---
 
 
-
-<a href="https://leetcode.com/u/Muhammad_Huzaifa_Farrukh/">
-  <img src="https://img.shields.io/badge/LeetCode-Muhammad__Huzaifa__Farrukh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-</a>
+### LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Muhammad_Huzaifa_Farrukh)](https://leetcode.com/u/Muhammad_Huzaifa_Farrukh/)
 
 ---
 
